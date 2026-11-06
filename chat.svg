@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 300 60">
+  <rect x="2" y="2" width="296" height="56" rx="14"
+        fill="#161b22" stroke="#30363d"/>
+  <circle cx="28" cy="30" r="6" fill="#3fb950"/>
+  <text x="48" y="36" fill="#ffffff"
+        font-family="Arial" font-size="16">
+    Let's connect!
+  </text>
+  <circle cx="255" cy="30" r="3" fill="#58a6ff">
+    <animate attributeName="opacity" values="0.2;1;0.2"
+             dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="267" cy="30" r="3" fill="#58a6ff">
+    <animate attributeName="opacity" values="0.2;1;0.2"
+             begin="0.2s" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="279" cy="30" r="3" fill="#58a6ff">
+    <animate attributeName="opacity" values="0.2;1;0.2"
+             begin="0.4s" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
